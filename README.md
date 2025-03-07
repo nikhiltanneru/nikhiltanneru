@@ -39,19 +39,11 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhiltanneru" alt="nikhiltanneru" /></a> </p>
-
-###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiltanneru&theme=dracula" alt="nikhiltanneru" /></p>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
 
